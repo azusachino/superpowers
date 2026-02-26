@@ -1,0 +1,2 @@
+description = "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+prompt = "Invoke the superpowers:systematic-debugging skill and follow it exactly as presented to you {{args}}"

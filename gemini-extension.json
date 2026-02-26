@@ -1,0 +1,6 @@
+{
+  "name": "superpowers",
+  "version": "1.0.0",
+  "description": "A complete software development workflow for your coding agents, built on top of a set of composable skills.",
+  "contextFileName": "GEMINI.md"
+}

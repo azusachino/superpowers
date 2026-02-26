@@ -1,0 +1,2 @@
+description = "Use when implementing any feature or bugfix, before writing implementation code"
+prompt = "Invoke the superpowers:test-driven-development skill and follow it exactly as presented to you {{args}}"

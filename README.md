@@ -51,6 +51,21 @@ In Cursor Agent chat, install from marketplace:
 /plugin-add superpowers
 ```
 
+### Gemini CLI
+
+Superpowers is fully compatible with [Gemini CLI](https://geminicli.com).
+
+**Installation:**
+
+```bash
+gemini extensions install https://github.com/obra/superpowers.git
+```
+
+**Features:**
+- Custom commands: `/brainstorm`, `/write-plan`, `/execute-plan`
+- Automatic workflow guidance via persistent context.
+- Full access to the superpowers skill library via `activate_skill`.
+
 ### Codex
 
 Tell Codex:
